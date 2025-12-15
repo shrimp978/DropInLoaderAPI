@@ -1,4 +1,4 @@
-package com.shrimp;
+package com.shrimp.dropin_loader_api;
 
 public interface DropInModule {
     void onLoad();
