@@ -2,7 +2,7 @@ plugins {
     id 'java'
 }
 
-group = 'com.shrimp'
+group = 'com.shrimp.dropin_loader_api'
 version = '1.0.0'
 
 repositories {
